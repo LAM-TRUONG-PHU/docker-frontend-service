@@ -1,0 +1,3 @@
+[submodule "note-service"]
+	path = note-service
+	url = https://github.com/lochoang174/note-service.git
