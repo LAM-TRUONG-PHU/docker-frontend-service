@@ -1,3 +1,6 @@
 [submodule "note-service"]
 	path = note-service
 	url = https://github.com/lochoang174/note-service.git
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/HieuPham-origin/Auth-service.git
